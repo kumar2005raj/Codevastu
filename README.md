@@ -1,5 +1,5 @@
 #Credit Card Validation Tools
-### 🚀 Live Demo: [click Here](https://kumar2005raj.github.io/Codevastu/)
+### 🚀 Live Demo: [click Here](https://kumar2005raj.github.io/PayPulse/)
 
 ## 📖 About the Project
 A Credit Card Validation Tool is a software application designed to check whether a given credit card number is valid based on certain verification techniques. This tool helps prevent errors, detect potential fraud, and ensure that users enter correct card details before processing transactions.
@@ -19,7 +19,7 @@ Basically, It based on the Luhn's Algorithm.
 ## 🚀 Installation & Setup
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/kumar2005raj/Codevastu.git
+   git clone https://kumar2005raj.github.io/PayPulse/
 1. install dependencies:
       npm install
 2. Start the server
